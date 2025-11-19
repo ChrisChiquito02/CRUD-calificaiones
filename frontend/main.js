@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/calificaciones";
+const API_URL = "https://crud-calificaiones.onrender.com/api/calificaciones";
 
 const formRegistro      = document.getElementById("formRegistro");
 const inputMatricula    = document.getElementById("inputMatricula");

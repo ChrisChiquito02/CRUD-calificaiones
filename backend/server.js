@@ -127,5 +127,5 @@ app.delete("/api/calificaciones/:id", async (req, res) => {
 const port = process.env.PORT || 3000;
 
 app.listen(port, () => {
-  console.log(`🚀 Servidor escuchando en http://localhost:${port}`);
+  console.log(`Servidor escuchando en http://localhost:${port}`);
 });
